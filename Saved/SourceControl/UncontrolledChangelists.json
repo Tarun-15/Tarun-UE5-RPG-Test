@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/locomotion/Idle_Break.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/locomotion/Walk_Stop.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/crouched/Crouch_Idle.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/crouched/Crouh_Walk.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/locomotion/locomotionSpace1D.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/ABP_RPGcharacter.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/crouched/crouchBlendSpace1D.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Lean/Lean_left.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Lean/Lean_right.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace1D.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver_Montage.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DL/6VJOYJQTZ3NHZ6FTUL9T8Y.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/UE4/Paired_Knife_GripVariant_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_GripVariant_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Blueprints/BP_Dummy.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Blueprints/BPI_Assassination.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/E9/B76L2JT3QFMYU89R6STW0A.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/UI/WB_AssasinationPrompt.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Crouch_Idle.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Crouh_Walk.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Idle_Break.uasset",
+				"D:/Unreal_C++_projects/RPG_proj_test/Content/Characters/RPG_Character/Animation/Walk_Stop.uasset"
+			]
+		}
+	]
+}
